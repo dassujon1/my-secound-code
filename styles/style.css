@@ -1,0 +1,14 @@
+div{
+    background-color: orangered;
+    color: white;
+    padding: 50px;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.main{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
